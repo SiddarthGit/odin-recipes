@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&display=swap');
+.title{
+    font-family: "Gwendolyn", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    
+    color: black;
+    margin: auto;
+}
+.title1,.title2{
+    font-family: "Gwendolyn", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    padding-left: 20px;
+    margin: 0;
+
+}
+*{
+    background-color: #FFD0D0;
+}
+.button1{
+    display: inline-block;
+    border-style: groove;
+    font-family: "Gwendolyn", cursive;
+    border-color: azure;
+    width: 50px;
+    margin: 5px;
+
+    
+}
+.amr,.gc{
+    font-family: "Gwendolyn", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+
