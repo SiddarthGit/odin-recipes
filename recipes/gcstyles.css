@@ -1,4 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&display=swap');
 *{
     background-color: #FFE8C8;
     
+}
+
+
+input[type=checkbox]:checked + label {
+    color:black;
+    text-decoration: line-through;
+}
+
+#step:checked + label {
+    color:black;
+    text-decoration: line-through;
 }
